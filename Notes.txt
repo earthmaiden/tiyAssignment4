@@ -1,0 +1,9 @@
+//revert to notes from dayone;
+
+//jquery must come before the javascript link
+//angular is a larger framework - look up framework
+//google hosted libraries - jquery
+//use the latest version it will be most up to date, or go
+//to second link because this will make it more stable.
+// it's just a dialect for a specific language. (A LIBRARY)
+// SOOO sprite-kit is a framework for swift.
